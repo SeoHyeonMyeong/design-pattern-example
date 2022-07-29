@@ -1,5 +1,7 @@
 package main.java.com.example.strategy;
 
+import main.java.com.example.strategy.weapons.Weapon;
+
 public class Character {
     private String name;
     private Weapon weapon;

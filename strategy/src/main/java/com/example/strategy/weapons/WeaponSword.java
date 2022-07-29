@@ -1,4 +1,4 @@
-package main.java.com.example.strategy;
+package main.java.com.example.strategy.weapons;
 
 public class WeaponSword implements Weapon {
     @Override
