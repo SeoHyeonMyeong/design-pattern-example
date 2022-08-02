@@ -1,6 +1,6 @@
 package main.java.com.example.templatemethod;
 
-public class Character {
+public abstract class Character extends ConstructMethod {
     private  ConstructMethod constructMethod;
 
     public Character(ConstructMethod constructMethod) {
